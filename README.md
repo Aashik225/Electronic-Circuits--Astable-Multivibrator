@@ -1,4 +1,4 @@
-[# Electronic-Circuits--Astable-Multivibrator
+# Electronic-Circuits--Astable-Multivibrator
 
 ## AIM:
 To implement and simulate a Astable Multivibrator and to obtain the output.
@@ -6,7 +6,7 @@ To implement and simulate a Astable Multivibrator and to obtain the output.
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
 <img width="868" height="887" alt="image" src="https://github.com/user-attachments/assets/432683d9-b21a-47d4-895c-05fcd0fbb23f" />
-https://github.com/Aashik225/Electronic-Circuits--Astable-Multivibrator
+
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
    
@@ -46,4 +46,5 @@ https://github.com/Aashik225/Electronic-Circuits--Astable-Multivibrator
 ## OUTPUTS:
 <img width="1048" height="532" alt="image" src="https://github.com/user-attachments/assets/1aa9032e-9ec6-4208-9dc2-a971bd894b4b" />
 
-## RESULT:
+## RESULT:![WhatsApp Image 2025-12-04 at 16 55 00_c78be459](https://github.com/user-attachments/assets/b4c5fc5d-0bf0-4fab-93db-e6b879f8a691)
+
